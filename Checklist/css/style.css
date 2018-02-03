@@ -110,6 +110,8 @@ li + li {
 }
 
 li div {
+  display: -webkit-box;
+  display: -ms-flexbox;
   padding: 0;
   -webkit-box-align: start;
       -ms-flex-align: start;

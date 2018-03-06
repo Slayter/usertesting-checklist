@@ -62,12 +62,11 @@ Vue.component('checklist', {
 				// Assets
 				'<a href="https://www.nngroup.com/articles/which-ux-research-methods/" target="_blank">Define goals for the study</a>',
 				'Have planning kick-off',
-				'Define goals for the study',
 				'Determine satisfaction and performance metrics',
 				'Determine the format and setting of the study',
 				'Determine testing dates and daily schedule',
 				'Define audience and target amount',
-				'Determine insentive',
+				'Determine incentive',
 				'Define recruitment plan',
 				'Make list of moderators and observers',
 				'Note moderator and observer availability',
